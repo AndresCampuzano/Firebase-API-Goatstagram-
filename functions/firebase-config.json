@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "goatstagram-two-api",
+  "private_key_id": "9f1224bb19c476406fae4068894fe8495a2183bd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5n9u3F7BNjvOx\n2Xltll/ZfchFFRV0VIuN1E/+Zi7e7b6O1czk1pRqU6fMGnLNdc4T+cEqt9oMlh2K\n5BwqoZcPxqEHk0OKClSg8Ga13Ezc2kxsBmlyvDathmsczhtY71FRUhXKR13twyxy\nMFkBNrP2cdjAYyWdPlxPcCHugUxQdwYTWNOlpIdFGOzz0h/MeZHS9JkljZ8N9FSi\nYE6ICTj6DFSUVnBwerTA7tBn5gnGSEImTFoSVcUGFjeg1Dvs/OzTcJVBXLLhj9j7\nPYa6zy2rmmXqfE5lsXX4tXlVDQ1k9YR/rhzDs4EGTah7ymAKeYk+DHpjlRUiZdek\nwRxfSkQfAgMBAAECggEAR9CEBbsBd5Al0hnsM6yo2pEiSS/WBBKthyqr5CWOXqsm\nPUaUJbiq5NQGqB1Xawv3tZy70hYdIx90wIZuK0QnGHBlXnPn/mDuyvEXG6bmic9f\nH6//XedZVBscF6HZzLeSA185lO+1dEY9TNRNqv2J9H+pNw1kwQgeWJFuX0LgzoQE\nueA1OKUOoub4iO1e+4w6Un6940xOtWLLkFdAlcNrZlKEKyZAd2a6ImGt0RRN8Pj7\ncoSALDE153UQiG6nspyRpL7Hu8C2tHsAabUWOheFJCBCW1GU916fVxD0K5r0BE39\nXCQErIqRum5J4bJVxxRmX6xOKgaskXWjw0zY+rxvwQKBgQDsQ9eJwcZd11ZHxYeV\nvi72Dkvb5gCRD4htut+58R0KhblnQn7OL5GW2aMSaZlcTzaVg7eTXDWBlVDG76ZZ\nWefXO6A8tG8t9Wi7Nhn14gXR4/no0DeUu93V1Yk9je1hd9h+vnoIw2M97nFHkFFx\nhYY/958NNjEI9HPFiGHr2GiEYQKBgQDJISWj+9rG0L3Vt2JWg2uYcGmHzm++fGmH\nnv15+YQfvHHrMVOx6CYyLSqaX/kbi7zUAcM5TRjXaPJZoFs6SpX8RHtrF7YnoK73\nra3uP7lnSyQ8FaeowxpI4BkRVge3Up1dNdsmHng99DrMkflD4dPSEECPBygRTqV+\n5HsYBDeYfwKBgQCMOAtAb6d55CYJvHqmbVPTplJxNITbkrtmXEURRr70kr6hQP6f\nAe5G9+1nLRLejQiZHa4in9QFjwd8uZghaVFGFNYZkQB25zH8AbTQkA7iLYoRGRoT\nhJe4o92qkYPzl7v+JK+qacOJau0CCu27EQLHDf/wSFw7s1DOSA3Negc1oQKBgBJa\n+RFvIbc1Q63mb44PrlkaITdoqqAKwKLE6sMf92PiEc9yD/5TfnDj2FiAW76c0R3U\nD1oCZDr8c+mkDc9TET8VjOHoJxKUwoMOEaqFnEkF/YeSPlvTemmeMgt3+3pKitv/\n10EyVKzqxhb3V3VPfcJVA19KOujhcY8UEPvPHrfHAoGBAK17c/8cQMOKd6qOtc6N\nN+AWcS00VTetqTtxH30DA745krQYRw1ZGj+DOVjkN64XqCgup9M8+2i7CEAV9MWK\nbEWFcgT4DZ9iRr4M7ZDBcO817QqCkEnIImB35mZdmLrHuWWCNC0kpWPjKbYy/xAB\nRHe+KMFaQYl/H8NZgWPAUFq4\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6mz9p@goatstagram-two-api.iam.gserviceaccount.com",
+  "client_id": "115801226367208815684",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6mz9p%40goatstagram-two-api.iam.gserviceaccount.com"
+}

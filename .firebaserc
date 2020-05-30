@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "goatstagram-two-api",
+    "goat": "goatstagram-two-api"
+  }
+}

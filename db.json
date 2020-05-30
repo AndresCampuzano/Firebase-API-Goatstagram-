@@ -1,0 +1,115 @@
+{
+  "user": {
+    "nickname": "campuzanodev",
+    "name": "Andres Campuzano"
+  },
+  "posts": [
+    {
+      "username": "The.happy.goat",
+      "location": "Bogotá, Colombia",
+      "avatar": "https://pbs.twimg.com/profile_images/1197212422194520065/eoys9Yjd_400x400.jpg",
+      "photo": "https://raw.githubusercontent.com/campuzanodev/Svelte-Goatstagram-/master/src/components/imagesForFirebase/goat01.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "Chillin",
+      "comments": [
+        {
+          "id": 123234535,
+          "text": "Hi Goat",
+          "username": "Crispeta"
+        },
+        {
+          "id": 1232322312,
+          "text": "¡Hi!",
+          "username": "Dollarsin"
+        }
+      ]
+    },
+    {
+      "username": "The.happy.goat",
+      "location": "Bogotá, Colombia",
+      "avatar": "https://pbs.twimg.com/profile_images/1197212422194520065/eoys9Yjd_400x400.jpg",
+      "photo": "https://raw.githubusercontent.com/campuzanodev/Svelte-Goatstagram-/master/src/components/imagesForFirebase/goat02.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "Hi...",
+      "comments": [
+        {
+          "id": 123234535,
+          "text": "Elmito",
+          "username": "campuzanodev"
+        }
+      ]
+    },
+    {
+      "username": "The.happy.goat",
+      "location": "Bogotá, Colombia",
+      "avatar": "https://pbs.twimg.com/profile_images/1197212422194520065/eoys9Yjd_400x400.jpg",
+      "photo": "https://raw.githubusercontent.com/campuzanodev/Svelte-Goatstagram-/master/src/components/imagesForFirebase/goat03.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "A happy day😁",
+      "comments": []
+    },
+    {
+      "username": "The.happy.goat",
+      "location": "Bogotá, Colombia",
+      "avatar": "https://pbs.twimg.com/profile_images/1197212422194520065/eoys9Yjd_400x400.jpg",
+      "photo": "https://raw.githubusercontent.com/campuzanodev/Svelte-Goatstagram-/master/src/components/imagesForFirebase/goat04.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "Calling my mom 😀",
+      "comments": []
+    },
+    {
+      "username": "The.happy.goat",
+      "location": "Bogotá, Colombia",
+      "avatar": "https://pbs.twimg.com/profile_images/1197212422194520065/eoys9Yjd_400x400.jpg",
+      "photo": "https://raw.githubusercontent.com/campuzanodev/Svelte-Goatstagram-/master/src/components/imagesForFirebase/goat05.jpeg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "Knowing the neighborhood",
+      "comments": []
+    },
+    {
+      "username": "The.happy.goat",
+      "location": "Bogotá, Colombia",
+      "avatar": "https://pbs.twimg.com/profile_images/1197212422194520065/eoys9Yjd_400x400.jpg",
+      "photo": "https://raw.githubusercontent.com/campuzanodev/Svelte-Goatstagram-/master/src/components/imagesForFirebase/goat06.jpeg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "I Love JS",
+      "comments": []
+    },
+    {
+      "username": "The.happy.goat",
+      "location": "Bogotá, Colombia",
+      "avatar": "https://pbs.twimg.com/profile_images/1197212422194520065/eoys9Yjd_400x400.jpg",
+      "photo": "https://raw.githubusercontent.com/campuzanodev/Svelte-Goatstagram-/master/src/components/imagesForFirebase/goat07.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "To sleep",
+      "comments": []
+    },
+    {
+      "username": "The.happy.goat",
+      "location": "Bogotá, Colombia",
+      "avatar": "https://pbs.twimg.com/profile_images/1197212422194520065/eoys9Yjd_400x400.jpg",
+      "photo": "https://raw.githubusercontent.com/campuzanodev/Svelte-Goatstagram-/master/src/components/imagesForFirebase/goat08.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "Hi, whats your name?",
+      "comments": []
+    },
+    {
+      "username": "The.happy.goat",
+      "location": "Bogotá, Colombia",
+      "avatar": "https://pbs.twimg.com/profile_images/1197212422194520065/eoys9Yjd_400x400.jpg",
+      "photo": "https://raw.githubusercontent.com/campuzanodev/Svelte-Goatstagram-/master/src/components/imagesForFirebase/goat09.jpg",
+      "like": false,
+      "bookmark": false,
+      "postComment": "I got a new goat friend",
+      "comments": []
+    }
+  ]
+}
